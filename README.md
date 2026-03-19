@@ -1,6 +1,6 @@
 # 🚀 Portfolio Website
 
-Portfolio website modern milik **Adit Kusuma**, dibangun dengan React, TypeScript, Three.js, GSAP, dan TailwindCSS.
+Portfolio website modern, dibangun dengan React, TypeScript, Three.js, GSAP, dan TailwindCSS.
 
 ---
 
