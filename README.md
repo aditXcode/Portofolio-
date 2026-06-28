@@ -63,7 +63,7 @@ vercel
 
 **Ganti foto (9:16):** Taruh foto di `public/foto.jpg`, lalu di `AboutSection.tsx`:
 ```tsx
-<TiltCard src="/foto.jpg" alt="Adit Kusuma" className="w-56" style={{ aspectRatio: '9/16' }} />
+<TiltCard src="/foto.jpg" alt="Example Name" className="w-56" style={{ aspectRatio: '9/16' }} />
 ```
 
 **Social links:** Edit `href` di array `SOCIAL` di `ContactSection.tsx`
